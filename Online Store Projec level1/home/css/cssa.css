@@ -13,7 +13,7 @@ body{
 .header{
     color:white;
     background-color:black;
-    height:100px;
+    height:70px;
     border:1px transparent solid;
     position:fixed;
     z-index:999;
@@ -357,7 +357,7 @@ height:93%;
 .nav{
     color:white;
     background-color:black;
-    height:145px;
+    height:130px;
     border:3px transparent solid;
     position:static;
     width:100%;
@@ -372,7 +372,7 @@ height:93%;
     background-color: #f1f1f1;
 
     background-color: transparent;
-    margin-top: 43%;
+    margin-top: 35%;
 }
 .dropbtnm1 {
     background-color: #04AA6D;
@@ -596,7 +596,7 @@ height:93%;
   }
   
   button:hover, a:hover {
-    opacity: 1;
+    opacity: 0.7;
   }
 /*========================================================================*/
 .swiper {
@@ -651,7 +651,7 @@ font-weight: bold;color: black;
     height:1000px;
     margin-left:6%;
     margin-right:6%;
-    border:1px transparent solid;
+    border:1px black solid;
 }
 .itemsPRs{
     width:90%;
